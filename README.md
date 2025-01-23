@@ -1,5 +1,3 @@
-# README.md Template for GitHub Main Page
-
 ## About School Projects
 Welcome to my GitHub page dedicated to showcasing various **school projects**. These projects reflect my learning journey and skills development in different areas, including programming, data analysis, and web development. Each project is designed to solve specific problems or explore innovative ideas, demonstrating both creativity and technical proficiency.
 
