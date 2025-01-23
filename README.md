@@ -13,14 +13,6 @@ Here are some of my notable school projects
 ## Project Images
 Here are some images from my projects:
 
-Weather App Screenshot  
-*Screenshot of the Weather App*
-
-Portfolio Screenshot  
-*Screenshot of the Personal Portfolio*
-
-To-Do List Screenshot  
-*Screenshot of the To-Do List Application*
 
 ## Copyright
 © Gregorius Valery 2025
