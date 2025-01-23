@@ -1,18 +1,15 @@
 ## About School Projects
 Welcome to my GitHub page dedicated to showcasing various **school projects**. These projects reflect my learning journey and skills development in different areas, including programming, data analysis, and web development. Each project is designed to solve specific problems or explore innovative ideas, demonstrating both creativity and technical proficiency.
 
-## Linked School Projects
-Here are some of my notable school projects:
+## Linked Projects
+Here are some of my notable school projects
 
-- [Project 1: Weather App](https://github.com/yourusername/weather-app)  
-  A simple weather application that fetches data from a public API and displays current weather conditions.
 
-- [Project 2: Personal Portfolio](https://github.com/yourusername/portfolio)  
-  A responsive portfolio website showcasing my skills, projects, and contact information.
-
-- [Project 3: To-Do List Application](https://github.com/yourusername/todo-app)  
-  A task management app that allows users to create, edit, and delete tasks with a user-friendly interface.
-
+## School Asignment
+- [Tugas 1](Tugas1.html)
+- [Tugas 2](Tugas2.html)
+- [Tugas 2-2](Tugas2-2.html)
+  
 ## Project Images
 Here are some images from my projects:
 
