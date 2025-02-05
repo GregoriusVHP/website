@@ -1,0 +1,38 @@
+body {
+    margin-left: 5em;
+    margin-right: 2em;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family: "Lato", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+img {
+    padding: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p {
+    margin-left: 20rem;
+    padding-right: 20em;
+    text-align: justify;
+    font-family: "Grandiflora One", serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 40px;
+    word-spacing: 5px;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3em;
+}
