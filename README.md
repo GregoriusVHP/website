@@ -7,7 +7,6 @@ Here are some of my notable school projects
 ## School Asignment
 - [Tugas 1](Tugas1.html)
 - [Tugas 2](Tugas2.html)
-- [Tugas 2-2](Tugas2-2.html)
 - [Tugas 3-1](Tugas3-1.html)
 - [Tugas 3-2](Tugas3-2.html)
 - [Tugas 3-3](Tugas3-3.html)
