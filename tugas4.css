@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    color: rgb(6, 31, 145);
+    text-align: center;
+    font-size: 40px;
+}
+
+.About{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    
+}
+
+.About h3{
+    font-size: 40px;
+}
+.About p{
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+.Achievments {
+    Display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.Achievments h3{
+    font-size: 40px;
+}
+
+.Achievments ol{
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer h6{
+    line-height: 20px;
