@@ -11,6 +11,7 @@ Here are some of my notable school projects
 - [Tugas 3-2](Tugas3-2.html)
 - [Tugas 3-3](Tugas3-3.html)
 - [Tugas 4](Tugas4.html)
+- [Tugas 5](Tugas5.html)
   
 ## Project Images
 Here are some images from my projects:
